@@ -1,4 +1,4 @@
-# Egyptian Calculator 🧮🇪🇬
+# Calculator.🇪🇬
 
 This is a simple desktop calculator application built with **Python** and **Tkinter**.
 
@@ -7,13 +7,13 @@ The design is customized with colored buttons for better visual experience.
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ![App Screenshot](screenshots/calculator_ui.png)
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Simple and clean UI
 - Supports +, -, *, /
@@ -22,7 +22,7 @@ The design is customized with colored buttons for better visual experience.
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python 3
 - Tkinter
@@ -31,14 +31,14 @@ The design is customized with colored buttons for better visual experience.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Download the latest release from the [Releases](https://github.com/hafiz6917/Disck-calculator/releases) section:  
-➡️ `calculator_setup.exe`
+ `calculator_setup.exe`
 
 ---
 
-## 🔧 How to Run from Source
+##  How to Run from Source
 
 ```bash
 python main.py
@@ -55,6 +55,8 @@ Disck-calculator/
 │   └── calculator_ui.png
 └── ...
 
-📄 License
+ License
 This project is licensed under the MIT License.
+## design by
+### HAFIZ SALEM...
 
